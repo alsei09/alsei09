@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alsei09
 - 👀 I’m interested in Neural Egnineering/Nanotechnology engineering, congnitive science/computer science/A.I/B.M.I
 - 🌱 I’m currently learning Python/Linear Algebra
-- 💞️ I’m looking to collaborate on Neural network/Game design
+- 💞️ I’m looking forward to improve my skills in computer science and engineering
 - 📫 How to reach me instagram @alsei09
 
 <!---
